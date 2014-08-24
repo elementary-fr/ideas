@@ -28,6 +28,9 @@ Traitement de Texte
 .. image:: mockups/wordprocessor.png
    :scale: 50
 
+.. image:: mockups/sentence___advanced_text_editor_by_dikoo-d4uzv1s.png
+   :scale: 50
+
 Source: http://bassultra.deviantart.com/art/Word-Processor-in-fullscreen-338262486
 
 Tableur
