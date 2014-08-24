@@ -38,7 +38,6 @@ Tableur
 
 Source: http://bassultra.deviantart.com/art/Spreadsheet-363147552
 
-<<<<<<< HEAD
 Logiciel de Présentation
 ----------
 
@@ -48,9 +47,6 @@ Logiciel de Présentation
 Source: http://spiceofdesign.deviantart.com/art/Presentation-Software-Concept-180629952
 
 Remedolage d'Inkscape
-=======
-Remodelage d'Inkscape
->>>>>>> 4d6b23dbdb41c586ddaa07178432962cfc81cc4e
 ----------
 
 .. image:: mockups/inkscape_redesign_by_bassultra-d5ppoke.png
