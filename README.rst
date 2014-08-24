@@ -22,6 +22,7 @@ Application de Maths
 
 Source: http://bassultra.deviantart.com/art/NaSC-397879524
 
+
 Traitement de Texte
 ----------
 
@@ -29,6 +30,11 @@ Traitement de Texte
    :scale: 50
 
 Source: http://bassultra.deviantart.com/art/Word-Processor-in-fullscreen-338262486
+
+.. image:: mockups/sentence___advanced_text_editor_by_dikoo-d4uzv1s.png
+   :scale: 50
+
+Source: http://elementary-art.deviantart.com/art/Sentence-advanced-text-editor-293926384
 
 Tableur
 ----------
