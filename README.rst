@@ -95,7 +95,7 @@ Gestionnaire de Flux (RSS,ATom...)
 Il y avait le projet Feedler https://launchpad.net/feedler
 Rajouter une synchronisation avec des services connus style framanews, feedly, inoreader...
 
-.. image:: mockups/feedler_revised_2_by_spiceofdesign-png
+.. image:: mockups/feedler_revised_2_by_spiceofdesign-d4at5bi.png
    :scale: 50
 
 Source: http://spiceofdesign.deviantart.com/art/Feedler-Revised-2-260020782
