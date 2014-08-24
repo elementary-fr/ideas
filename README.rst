@@ -15,3 +15,11 @@ Application de Maths
 .. image:: mockups/nasc_by_bassultra-d6kvxt0.png
 
 Source: http://bassultra.deviantart.com/art/NaSC-397879524
+
+Traitement de Texte
+----------
+
+.. image:: mockups/wordprocessor.png
+   :scale: 50
+
+Source: http://bassultra.deviantart.com/art/Word-Processor-in-fullscreen-338262486
