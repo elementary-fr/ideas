@@ -32,7 +32,7 @@ Tableur
 
 Source: http://bassultra.deviantart.com/art/Spreadsheet-363147552
 
-Remedolage d'Inkscape
+Remodelage d'Inkscape
 ----------
 
 .. image:: mockups/inkscape_redesign_by_bassultra-d5ppoke.png
