@@ -12,8 +12,16 @@ Possibilité d'un Transmission en Granite
 
 Source: http://ainq.deviantart.com/art/Granite-Transmission-376347284
 
-Mockups de fshv à rajouter
+Client torrent
+----------
 
+.. image:: mockups/etorrent1.png
+
+.. image:: mockups/etorrent2.png
+
+.. image:: mockups/etorrent3.png
+
+Source: https://github.com/elementary-fr/eTorrent
 
 Application de Maths
 ----------
