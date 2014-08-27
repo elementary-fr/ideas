@@ -128,3 +128,19 @@ Interface à OpenStreet Map
    :scale: 50
 
 Source: http://spiceofdesign.deviantart.com/art/Maps-App-concept-386597300
+
+swicthboard-drives-plug
+----------
+
+Un plug switchboard pour les disques, un projet existe sur launchpad mais semble abandonné:
+https://code.launchpad.net/~optimisme/+junk/switchboard-drives
+
+.. image:: mockups/pngYG27lLItyX.png
+   :scale: 50
+
+Source: https://lists.launchpad.net/elementary-dev-community/msg02785.html
+
+.. image:: mockups/disk_usage_plug_for_elementary_os_by_dahenson-d5fgg7y.png
+   :scale: 50
+
+Source: http://dahenson.deviantart.com/art/Disk-Usage-Plug-for-elementary-OS-328292638
