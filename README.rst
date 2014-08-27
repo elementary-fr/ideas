@@ -44,6 +44,11 @@ Source: http://bassultra.deviantart.com/art/Word-Processor-in-fullscreen-3382624
 
 Source: http://elementary-art.deviantart.com/art/Sentence-advanced-text-editor-293926384
 
+.. image:: mockups/writer_concept_by_spiceofdesign-d5t9wcs.png
+   :scale: 50
+
+Source: http://spiceofdesign.deviantart.com/art/Writer-Concept-351501580
+
 Tableur
 ----------
 
