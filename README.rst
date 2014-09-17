@@ -157,3 +157,14 @@ Source: https://lists.launchpad.net/elementary-dev-community/msg02785.html
    :scale: 50
 
 Source: http://dahenson.deviantart.com/art/Disk-Usage-Plug-for-elementary-OS-328292638
+
+Rappel des principaux raccourcis EoS
+----------
+
+Avoir en appuyant longtemps sur (ou autre chose), une fenêtre qui s'ouvre et qui fait apparaitre les principaux raccourcis, puis qui se ferme lorsque l'on relache .
+Unity faisait cela, un bon mockup en dira plus.
+
+.. image:: http://fc01.deviantart.net/fs71/f/2012/322/b/0/keyboard_shortcuts_by_bassultra-d5le66o.png
+   :scale: 50
+
+Source: http://bassultra.deviantart.com/art/Keyboard-Shortcuts-Cheatsheet-338264016
