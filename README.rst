@@ -168,3 +168,12 @@ Unity faisait cela, un bon mockup en dira plus.
    :scale: 50
 
 Source: http://bassultra.deviantart.com/art/Keyboard-Shortcuts-Cheatsheet-338264016
+
+Créateur de Qr-Code
+--------------------
+
+Application permettant simplement de créer un Qr-Code
+
+Design existant sur d'autre plateforme:
+
+.. image:: http://a2.mzstatic.com/us/r1000/102/Purple/d5/96/95/mzl.zeuvkiji.800x500-75.jpg
