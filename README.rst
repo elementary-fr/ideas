@@ -12,19 +12,6 @@ Possibilité d'un Transmission en Granite
 
 Source: http://ainq.deviantart.com/art/Granite-Transmission-376347284
 
-Calculatrice
-----------
-pour remplacer gnome-calculator.
-
-Prime sur bountysource: https://www.bountysource.com/issues/2510839-native-calculator
-
-Mockups
-
-.. image:: mockups/CalculatorViewDefault.png
-
-.. image:: mockups/CalculatorViewHistory.png
-
-
 Client torrent
 ----------
 
