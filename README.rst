@@ -23,13 +23,6 @@ Client torrent
 
 Source: https://github.com/elementary-fr/eTorrent
 
-Application de Maths
-----------
-
-.. image:: mockups/nasc_by_bassultra-d6kvxt0.png
-
-Source: http://bassultra.deviantart.com/art/NaSC-397879524
-
 
 Traitement de Texte
 ----------
