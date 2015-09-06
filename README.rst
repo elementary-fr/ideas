@@ -66,11 +66,6 @@ Remedolage d'Inkscape
 
 Source: http://bassultra.deviantart.com/art/Inkscape-Redesign-345519518
 
-Client IRC
-----------
-
-Il existe Cable mais le projet ne semble pas avancé.
-https://launchpad.net/cable
 
 Application de Gestion de téléchargements
 ----------
